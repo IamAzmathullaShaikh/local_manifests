@@ -20,10 +20,6 @@
   <!-- Kernel -->
   <project name="KawaKernel-A217X" path="kernel/samsung/a21s" remote="exynos850"/>
 
-  <!-- Remove original repos -->
-  <remove-project name="LineageOS/android_hardware_samsung_slsi-linaro_exynos" />
-  <remove-project name="LineageOS/android_hardware_samsung_slsi-linaro_graphics" />
-
   <!-- SLSI -->
   <project name="android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="exynos850"/>
   <project name="android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="exynos850"/>
