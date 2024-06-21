@@ -1,7 +1,7 @@
 To initialize your local repository use
 ---------------------------------------
 
-    git clone https://github.com/IamAzmathullaShaikh/local_manifests.git -b lineage20-a21s .repo/local_manifests
+    git clone https://github.com/IamAzmathullaShaikh/local_manifests.git -b lineage-19.1 .repo/local_manifests
     
 
 Then to sync up:
