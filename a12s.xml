@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_oplus" revision="lineage-20" />
+  <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" revision="lineage-20" />
   <project path="device/sasmsung/a12s" remote="github" name="IamAzmathullaShaikh/lineage_device_samsung_a12s" revision="lineage-20" />
   <project path="device/samsung/platform" remote="gitlab" name="SamsungDevices/android_platform_samsung_a12s" revision="A127FXXU9DWE4" />
   <project path="kernel/samsung/a12s" remote="gitlab" name="SamsungDevices/android_kernel_samsung_a12s-4-19-rebased" revision="android-4.19-stable" />
