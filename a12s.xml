@@ -3,6 +3,6 @@
   <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" revision="lineage-20" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-20" />
   <project path="device/samsung/a12s" remote="github" name="IamAzmathullaShaikh/lineage_device_samsung_a12s" revision="lineage-20" />
-  <project path="kernel/samsung/a12s" remote="github" name="IamAzmathullaShaikh/android_kernel_samsung_a12s" revision="rsuntk_v4.19.150" />
+  <project path="kernel/samsung/a12s" remote="github" name="IamAzmathullaShaikh/a127f-T-u9" revision="main" />
   <project path="vendor/samsung/a12s" remote="github" name="rsuntk/android_vendor_samsung_a12s" revision="U9" />
 </manifest>
